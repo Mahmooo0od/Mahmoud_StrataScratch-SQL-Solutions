@@ -6,7 +6,7 @@ Welcome to my repository dedicated to solving real-world SQL interview questions
 The goal is to solve problems sourced from top-tier companies (FAANG, etc.) to sharpen my data engineering and analytical skills. Each solution is optimized for performance and readability.
 
 ## 🛠️ Technologies Used
-* **SQL Dialects:** MS SQL Server.
+* **SQL Dialects:** Oracle Sql.
 * **Concepts:** CTEs, Window Functions (RANK, LEAD/LAG), Self-Joins, Subqueries, and Data Aggregations.
 
 ## 📂 Repository Structure
