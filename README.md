@@ -3,7 +3,7 @@
 Welcome to my repository dedicated to solving real-world SQL interview questions from **StrataScratch**. This project serves as a practice log for mastering complex queries, window functions, and data manipulation techniques.
 
 ## 📌 Project Overview
-The goal is to solve problems sourced from top-tier companies (FAANG, etc.) to sharpen my data engineering and analytical skills. Each solution is optimized for performance and readability.
+The goal is to solve problems sourced from top-tier companies (FAANG,.. etc.) to sharpen my data engineering and analytical skills. Each solution is optimized for performance and readability.
 
 ## 🛠️ Technologies Used
 * **SQL Dialects:** Oracle Sql.
