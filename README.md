@@ -31,4 +31,4 @@ Solutions are organized by difficulty level for easy navigation:
 3. Open the `.sql` file to view the logic and code.
 
 ## 📫 Contact
-**Mahmoud Mamdouh** - [LinkedIn]((https://www.linkedin.com/in/mahmoud-mamdouh-324125220/)
+**Mahmoud Mamdouh** - [LinkedIn](https://www.linkedin.com/in/mahmoud-mamdouh-324125220/)
